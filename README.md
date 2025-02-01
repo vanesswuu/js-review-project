@@ -2,6 +2,6 @@
 This project is a review of Javascript concepts, from beginner to advanced.
 I added some text
 
-# Updating file from Github repo and pull changes to local
+# Updating it again 
 
 
